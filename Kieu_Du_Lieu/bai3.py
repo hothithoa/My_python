@@ -1,0 +1,5 @@
+nhap_so_thu_1 = str(input("Nhap so: "))
+nhap_so_thu_2 = str(input("Nhap so: "))
+nhap_so_thu_3 = str(input("Nhap so: "))
+tong = int(nhap_so_thu_1) + int(nhap_so_thu_2) + int(nhap_so_thu_3)
+print(f"Tổng là: {tong}")
